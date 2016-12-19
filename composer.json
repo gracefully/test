@@ -1,0 +1,12 @@
+{
+    "name": "gracefully/blog",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/gracefully/test"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "dev-bugfix"
+    }
+}
