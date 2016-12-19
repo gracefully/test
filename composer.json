@@ -1,5 +1,5 @@
 {
-    "name": "gracefully/blog",
+    "name": "gracefully/test",
     "repositories": [
         {
             "type": "vcs",
@@ -7,6 +7,6 @@
         }
     ],
     "require": {
-        "monolog/monolog": "dev-bugfix"
+        "monolog/monolog": "1.0.*"
     }
 }
